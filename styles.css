@@ -1,14 +1,18 @@
 .holder{
-	width:70%;
-	height:400px;
+	width:60%;
+	height:500px;
    border: 1px solid black;
 	display:flex;
 	flex-wrap: wrap;
-	justify-content:space-between;
-}
-.item{
-	height:150px
-	width:150px;
-	background-color:red;
+	padding: 10px;
 	
 }
+.item{
+	height:180px;
+	width :200px;
+	background-color: red;
+	border: 5px solid black;
+	margin: 10px;
+	
+}
+
