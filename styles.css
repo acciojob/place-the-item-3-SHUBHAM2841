@@ -3,10 +3,12 @@
 	hieght:400px;
 	display:flex;
 	flex-wrap: wrap;
-	justify-content:space-around;
+	justify-content:space-between;
+	border:1px solid black;
 }
 .item{
 	hieght:150px
-	width:300px;
-	border:1px solid black
+	width:150px;
+	background-color:red;
+	
 }
